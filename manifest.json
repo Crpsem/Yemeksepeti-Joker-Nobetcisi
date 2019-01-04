@@ -1,0 +1,26 @@
+{
+  "name": "Yemeksepeti Joker Nöbetçisi",
+  "short_name": "Joker Nöbetçisi",
+  "description": "Yemeksepeti Joker Nöbetçisi",
+  "manifest_version": 2,
+  "author": "Farhad Safarov",
+  "version": "0.3.5",
+  "background":{
+    "scripts": ["js/jquery-1.11.3.min.js", "js/joker_notifier.js", "js/background.js"]
+  },
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "img/icon.png",
+    "48": "img/icon_48.png",
+    "128": "img/icon_128.png"
+  },
+  "permissions": [
+    "storage",
+    "cookies",
+    "notifications",
+    "*://*.yemeksepeti.com/"
+  ]
+}
