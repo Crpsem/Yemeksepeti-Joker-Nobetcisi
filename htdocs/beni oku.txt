@@ -1,0 +1,2 @@
+htm, html, php, css vb. çalýþmalarý dosyalarý buraya saklanmalý farklý bir konumda çalýþmaz.
+PHP MyAdmin Paneli Ýçin: http://localhost/phpmyadmin/index.php
