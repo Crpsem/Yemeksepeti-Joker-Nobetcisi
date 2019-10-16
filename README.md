@@ -1,1 +1,1 @@
-# Local Apache MySQL PHP phpMyAdmin
+# Proje geliştirme aşamasında iptal edildi
